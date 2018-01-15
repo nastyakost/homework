@@ -1,5 +1,4 @@
 # homework
 ## Хозяин _Костюченко Анастасия_
-*[Почта](kostochkanastya@mail.ru)
-*
-*
+[Почта](kostochkanastya@mail.ru)
+
