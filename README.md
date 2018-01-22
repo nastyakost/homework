@@ -30,5 +30,8 @@
 5|Цифровая грамотность(семинар)|-|НИС "Визуальная культура"|-|Литература Великобритании(лекция)|Латинский язык
 6|-|-|-|-|-|-
 
-* [Почта](mailto:kostochkanastya@mail.ru)
+###Спасибо большое, что посетили мою страницу!Вот соц. сети, где вы можете со мной связаться:
+* [E-mail](mailto:kostochkanastya@mail.ru)
 * [Телеграм](https://t.me/kostochkan)
+* [Вконтакте](https://vk.com/kostochkins)
+* [Инстаграм](https://www.instagram.com/koostochka/)
